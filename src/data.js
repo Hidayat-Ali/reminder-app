@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    name: 'Hiddhu',
+    name: 'Hidayat ali Mir',
     age: 18,
     image:
       './hidayat.jpeg',
