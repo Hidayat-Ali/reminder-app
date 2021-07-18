@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Create  Birthday reminder React App with Hidayat Ali Mir
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
